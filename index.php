@@ -25,7 +25,7 @@
             <button type="button" id="btn"> Hit this to compute!</button>
 
         <!-- possible space for computation -->
-        <? 
+        <?php 
         echo("He!");
         ?>
         <h1>The sum of [replace with num1] and [replace with num2] is </h1>
